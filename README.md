@@ -7,6 +7,13 @@
   <a href="https://wa.me/+919060862382" target="blank"><img align="center" src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="whatsapp-me" /></a>
   <a href="https://instagram.com/ersarojkumarroy9060" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="pawanpreneur" height="30" width="40" /></a>
 <a href="https://twitter.com/Ersarojroy9060" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="Ersarojroy9060" height="30" width="40" /></a>
+  
+  <p align="left"> <img src="https://komarev.com/ghpvc/?username=pawangithub752000&label=Profile%20views&color=0e75b6&style=flat" alt="pawangithub752000" /> </p>
+
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=pawangithub752000" alt="pawangithub752000" /></a> </p>
+
+<p align="left"> <a href="https://twitter.com/pawanku63639567" target="blank"><img src="https://img.shields.io/twitter/follow/pawanku63639567?logo=twitter&style=for-the-badge" alt="pawanku63639567" /></a> </p>
+
 
   
 </p>
