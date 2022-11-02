@@ -12,8 +12,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=pawangithub752000" alt="pawangithub752000" /></a> </p>
 
-<p align="left"> <a href="https://twitter.com/ersarojkumarroy9060" target="blank"><img src="[https://img.shields.io/twitter/follow/pawanku63639567?logo=twitter&style=for-the-badge](https://twitter.com/Ersarojroy9060/followers)" alt="ersarojkumarroy9060" /></a> </p>
-
+<p align="left"> <a href="https://twitter.com/Ersarojroy9060/followers" target="blank"><img src="https://img.shields.io/twitter/follow/pawanku63639567?logo=twitter&style=for-the-badge" alt="pawanku63639567" /></a> </p>
 
   
 </p>
